@@ -12,5 +12,3 @@ By running bj.c++, you can play BlackJack with the computer. I win about 50% of 
 
 
 Alglrithms contains a c++ file and a example input file. The c++ program has the implementation of two algorithms which will take an undirect graph (input file) and output a file that contains the shortest path from the first node to every other nodes. 
-
-
